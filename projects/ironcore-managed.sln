@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ironcore-managed", "ironcore-managed\ironcore-managed.csproj", "{BAA5D8DA-66F1-44EE-A15B-985C1DC31774}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ironcore-example", "ironcore-example\ironcore-example.csproj", "{DE86630A-8214-4AE0-90E3-F1FF5AE5A960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA5D8DA-66F1-44EE-A15B-985C1DC31774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA5D8DA-66F1-44EE-A15B-985C1DC31774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA5D8DA-66F1-44EE-A15B-985C1DC31774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA5D8DA-66F1-44EE-A15B-985C1DC31774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE86630A-8214-4AE0-90E3-F1FF5AE5A960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE86630A-8214-4AE0-90E3-F1FF5AE5A960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE86630A-8214-4AE0-90E3-F1FF5AE5A960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE86630A-8214-4AE0-90E3-F1FF5AE5A960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83202B0B-A5A6-4BBA-94B4-B423B22FFAA6}
+	EndGlobalSection
+EndGlobal
