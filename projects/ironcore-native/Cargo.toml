@@ -1,0 +1,10 @@
+[package]
+name = "ironcore-native"
+version = "0.1.0"
+authors = ["Cole Campbell <cole.campbell@twistedlogik.net>"]
+
+[lib]
+name = "icnative"
+crate-type = ["cdylib"]
+
+[dependencies]

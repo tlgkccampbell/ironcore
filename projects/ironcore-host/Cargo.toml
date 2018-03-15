@@ -1,0 +1,10 @@
+[package]
+name = "ironcore-host"
+version = "0.1.0"
+authors = ["Cole Campbell <cole.campbell@twistedlogik.net>"]
+
+[[bin]]
+name = "ichost"
+path = "src/main.rs"
+
+[dependencies]
