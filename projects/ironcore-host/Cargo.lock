@@ -1,4 +1,11 @@
 [[package]]
 name = "ironcore-host"
 version = "0.1.0"
+dependencies = [
+ "ironcore-native 0.1.0",
+]
+
+[[package]]
+name = "ironcore-native"
+version = "0.1.0"
 

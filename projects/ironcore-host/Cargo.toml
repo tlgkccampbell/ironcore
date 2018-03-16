@@ -8,3 +8,4 @@ name = "ichost"
 path = "src/main.rs"
 
 [dependencies]
+ironcore-native = { path = "../ironcore-native" }
