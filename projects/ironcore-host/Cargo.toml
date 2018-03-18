@@ -9,3 +9,4 @@ path = "src/main.rs"
 
 [dependencies]
 ironcore-native = { path = "../ironcore-native" }
+libloading = "*"
