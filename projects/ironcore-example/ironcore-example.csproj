@@ -15,4 +15,8 @@
     <OutputPath>..\..\output\release\</OutputPath>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ironcore-managed\ironcore-managed.csproj" />
+  </ItemGroup>
+
 </Project>

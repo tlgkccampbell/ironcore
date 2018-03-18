@@ -7,6 +7,7 @@ namespace IronCore.Example
         public static void Main()
         {
             Console.WriteLine("Hello from C#!");
+            IronCoreNative.RustTestFunction();
         }
     }
 }
